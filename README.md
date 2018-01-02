@@ -1,2 +1,1 @@
-# https://mishajib.github.io/sayeman/
-# sayeman
+# [Sayeman](https://mishajib.github.io/sayeman/)
